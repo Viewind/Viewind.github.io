@@ -1,2 +1,2 @@
-# viewind.github.io
-test
+# Atlas-jekyll-theme
+![Preview](./atlas-normal.png)
