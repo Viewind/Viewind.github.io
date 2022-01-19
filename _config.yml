@@ -1,33 +1,24 @@
-title: Atlas Jekyll Theme
-desciption: >
-  A jekyll theme for personal website.
-email: yourusername@gmail.com
-baseurl: "/atlas-jekyll-theme" # the subpath of your site, e.g. /blog
-#replace nrdybhu1.github.io with your domainname.com
-url: "https://nrdybhu1.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  Jekyll
-markdown: kramdown
-page_excerpts: true
-favicon: "/img/atlas.png"
-collections:
-  posts:
-    permalink: "/blog/:title:output_ext"
-    output: true
-defaults:
-- scope:
-    path: _posts
-    type: posts
-- scope:
-    path: ''
-  values:
-    image: "/img/preview.png"
-plugins:
-- jekyll-avatar
-- jekyll-feed
-- jekyll-redirect-from
-- jemoji
-- jekyll-paginate
+title: Parchment
+author: pro-panda
+subtitle: The life of a frustrated engineer
 
-paginate: 5
-paginate_path: "/blog/page-:num/"
+url: "https://rahul-bothra.github.io"
+baseurl: "/parchment"
+
+footer_only_homepage: true
+footer_url: "https://github.com/rahul-bothra"
+footer_text: "Theme by rahul-bothra"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
+ - name: "Resume"
+   absolute-link: "https://rahul-bothra.github.io/CV.pdf"

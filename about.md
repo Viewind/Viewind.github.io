@@ -1,42 +1,25 @@
 ---
-layout: post
+layout: default
 title: About Me
-permalink: /about/
-redirect_from: /about.html
 ---
 
-## Hi there 👋
-Introduce your self
-I`m NrdyBhu1
+<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-# About Me
-Tell more about your self
-I am a passionate game dev 👨🏻‍💻 and i learnt many languages only to make games.
+I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
 
-Talk about your projects
-# My first project
-My first project was a prototype which was unfinished but still it was a game.
+On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
 
-Link your social accounts
-# Social Accounts
-[Itch.io](#) \
-[Patreon](#) \
-[Youtube](#) \
-[My Website](#) \
-[Gmail](#) \
-[Github](#)
+### Life Advice
+Here are a few things I've learned over the years,
+> An optimist is simply a pessimist with no job experience.
 
-Show your github Stats
-# Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&layout=compact&bg_color=30,12c2e9,f64f59&title_color=fff&text_color=fff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
-</p>
+> All of your co-workers are fools. You must learn to pity and tolerate them.
 
-Your showcase here
-# My Showcase
-<p>
-    <a href="https://github.com/Jekyll/jekyll"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jekyll&repo=jekyll&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-    <a href="https://github.com/Jekyll/teams"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jekyll&repo=teams&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-</p>
+> There are very few problems that can't be solved through a suitable application of high explosives.
 
+### Publications
+1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
+2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+
+### Contact Me
+No thanks, I have enough problems of my own to deal with.
