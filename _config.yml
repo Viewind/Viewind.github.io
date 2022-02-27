@@ -36,7 +36,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/viewind
+    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: zh
 
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Songzi Vong
-  url: https://github.com/viewind/
-  email: viewind@outlook.com
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
