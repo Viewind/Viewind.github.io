@@ -20,6 +20,7 @@
 @import "variables";
 @import "base";
 @import "type";
+@import "syntax";
 @import "code";
 @import "layout";
 @import "sidebar";
@@ -29,12 +30,6 @@
 @import "pagination";
 @import "message";
 @import "toc";
-@import "alignment";
-
-@import "syntax-light";
-@media (prefers-color-scheme: dark) {
-  @import "syntax-dark";
-}
 
 // Sass for creating the swatches
 .colors {

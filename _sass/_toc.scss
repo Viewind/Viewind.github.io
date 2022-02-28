@@ -5,13 +5,10 @@
   position: sticky;
   top: calc(var(--spacer-3) * 2.5);
   width: auto;
-  padding-left: var(--spacer);
-  padding-right: var(--spacer);
 }
 
 .toc-title {
   text-align: center;
-  font-size: 1em;
   font-weight: bold;
   border: 1px solid;
   border-radius: 0.3em 0.3em 0 0;
@@ -23,7 +20,6 @@
 }
 
 .toc-nav {
-  font-size: 0.8em;
   max-height: 60vh;
   overflow-y: scroll;
   border: 1px solid;
@@ -52,12 +48,9 @@
 
     li {
       font-weight: bold;
+      padding: 0.5rem;
 
       a {
-        padding-top: .2em;
-        padding-bottom: .2em;
-        padding-left: .5em;
-        padding-right: .5em;
         border-bottom: 1px solid var(--border-color);
       }
     }
@@ -65,7 +58,6 @@
 
   li ul li a {
     font-weight: normal;
-    padding-left: 1.25em;
-    padding-right: .5em;
+    padding-left: 1.25rem;
   }
 }

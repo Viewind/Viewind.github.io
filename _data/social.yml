@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://viewind@outlook.com
+  url: mailto://vszhub@gmail.com
   icon: fas fa-envelope
-- title: Music
-  url: https://music.163.com/#/user/home?id=431934665
-  icon: fas fa-music
+- title: Twitter
+  url: https://twitter.com/vszhub
+  icon: fab fa-music
 - title: GitHub
-  url: https://github.com/viewind
+  url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
