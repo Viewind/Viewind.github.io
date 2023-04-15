@@ -1,9 +1,0 @@
-- title: Email
-  url: mailto://viewind@outlook.com
-  icon: fas fa-envelope
-- title: Music
-  url: https://music.163.com/
-  icon: fas fa-music
-- title: GitHub
-  url: https://github.com/viewind
-  icon: fab fa-github
